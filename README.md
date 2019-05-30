@@ -9,6 +9,7 @@ O aplicativo consiste em um jogo, onde o usuário deve matar - entende-se clicar
 # Tecnologias
 • HTML<br>
 • Javascript (ES6)
+• Bootstrap
 
 # Como inicializar?
 Basta abrir o arquivo app.html
